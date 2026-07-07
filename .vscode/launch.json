@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hanhyuk/Downloads/Github-Study/Engineer-Information-Processing",
+      "program": "/Users/hanhyuk/Downloads/Github-Study/Engineer-Information-Processing/build/Debug/outDebug"
+    }
+  ]
+}

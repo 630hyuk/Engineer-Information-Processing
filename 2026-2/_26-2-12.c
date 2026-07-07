@@ -1,3 +1,4 @@
+#include <stdio.h>
 struct fns {
     int* (*fn)(int*);
 } mine;

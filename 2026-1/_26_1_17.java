@@ -1,4 +1,4 @@
-public class _26_2_17 {
+public class _26_1_17 {
     public static void main(String[] args) {
         int x1 = 9;
         int x2 = 2;
@@ -7,3 +7,13 @@ public class _26_2_17 {
     }
     
 }
+
+/*
+
+x1 + x2 + "2" + x3
+= 9 + 2 + "2" + "3"
+
+9 + 2 = 11  (숫자) + 2 + 3
+-> 1123
+
+*/
